@@ -1,0 +1,67 @@
+{
+  "homemenus": [
+    {
+      "id": 1,
+      "title": "회사 메일 ",
+      "description": "회사 이메일 열기",
+      "icon": "Bars4Icon",
+      "background": "bg-pink-500"
+    },
+    {
+      "id": 2,
+      "title": "캘린더 : 일정 공유",
+      "description": "회사의 업무일정을 함께 공유/관리해야 합니다.",
+      "icon": "CalendarIcon",
+      "background": "bg-yellow-500"
+    },
+    {
+      "id": 3,
+      "title": "문서함",
+      "description": "문서양식 / 영업문서 / 관리문서 / 기술문서",
+      "icon": "PhotoIcon",
+      "background": "bg-green-500"
+    },
+    {
+      "id": 4,
+      "title": "회의 자료",
+      "description": "정기회의보고 / 홍보자료",
+      "icon": "ViewColumnsIcon",
+      "background": "bg-blue-500"
+    },
+    {
+      "id": 5,
+      "title": "업무 사이트 관리 (금융 관련 제외)",
+      "description": "고객사 사이트 관리 ",
+      "icon": "TableCellsIcon",
+      "background": "bg-indigo-500"
+    },
+    {
+      "id": 6,
+      "title": "영업 관리",
+      "description": "매출/매입 영업관련 자료",
+      "icon": "ClockIcon",
+      "background": "bg-purple-500"
+    }
+  ],
+  "webids": [
+    {
+      "sitename": "Naver",
+      "siteurl": "http://www.naver.comddd",
+      "userid": "levesea",
+      "password": "mkscsi31",
+      "comment": "네이버를 자주사용합니다.",
+      "id": 1
+    },
+    {
+      "sitename": "카카오톡",
+      "siteurl": "www.kakaotalk.com",
+      "userid": "levesea",
+      "password": "dkdkdkd",
+      "comment": "수정테스트 입니다.",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
